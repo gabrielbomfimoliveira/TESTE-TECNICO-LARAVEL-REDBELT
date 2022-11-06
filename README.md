@@ -1,5 +1,8 @@
 # REDBELT-LARAVELDOCKER
-Com o Docker e Git instalado e funcionando na máquina:
+*  Aplicação CRUD SPA com Laravel 7, React.JS e Docker
+
+
+*  Com o Docker e Git instalado e funcionando na máquina:
 
 1 - Clone o reposítório
 
