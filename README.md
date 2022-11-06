@@ -3,7 +3,7 @@ Com o Docker e Git instalado e funcionando na máquina:
 
 1 - Clone o reposítório
 
-2 - Acesse o diretorio clonado no terminal
+2 - Acesse o diretorio do repositório clonado no terminal
 
 3 - Com o Docker em execução, executar: 
 
@@ -13,7 +13,7 @@ Com o Docker e Git instalado e funcionando na máquina:
 
     docker container ls
 
-5 - Verifique o id do container, copie e cole no comando abaixo
+5 - Verifique o id do container com o nome de laravelapp, copie e cole no comando abaixo
 
     docker exec -it idcontainer bash
 
